@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Blokuje lub zmienia przypisanie przycisku Netflix na pilotach Shield</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">Ochrona włączona — przycisk Netflix jest zablokowany</string>
+    <string name="status_off">Ochrona wyłączona — włącz dostęp, aby blokować</string>
+    <string name="access_title">Wymagane uprawnienie ułatwień dostępu. Przejdź do ustawień, aby włączyć</string>
+    <string name="access_on">Przyznano dostęp ułatwień dostępu</string>
+    <string name="access_off">Aplikacja nie używa, nie przechowuje ani nie wysyła żadnych danych i działa lokalnie na urządzeniu</string>
+    <string name="access_open">Otwórz</string>
+    <string name="access_enable">Włącz</string>
+    <string name="access_hint">Następnie: Preferencje urządzenia → Ułatwienia dostępu → Netflix Button Remapper → Włącz</string>
+    <string name="block_title">Wyłącz przycisk Netflix</string>
+    <string name="block_sub">Anuluje naciśnięcie, by Netflix nigdy się nie otworzył</string>
+    <string name="toast_title">Powiadomienie o naciśnięciu</string>
+    <string name="toast_sub">Pokazuje komunikat na ekranie po naciśnięciu przycisku</string>
+    <string name="remap_title">Przypisz do innej aplikacji</string>
+    <string name="remap_sub">Otwiera inną aplikację po naciśnięciu przycisku</string>
+    <string name="target_title">Aplikacja docelowa: %1s</string>
+    <string name="target_none">Nie wybrano żadnej</string>
+    <string name="target_note">Jeśli aplikacja docelowa jest już otwarta, naciśnięcie przycisku jest ignorowane</string>
+    <string name="pick_app">Wybierz aplikację</string>
+    <string name="hide_apps">Ukryj aplikacje</string>
+    <string name="clear">Wyczyść</string>
+    <string name="toast_blocked">Przycisk Netflix zablokowany</string>
+    <string name="toast_remapped">Przycisk Netflix → %1$s</string>
+    <string name="access_disclosure">Ten dostęp pozwala aplikacji wykrywać naciśnięcie przycisku Netflix, aby je blokować lub zmieniać jego przypisanie. Żadne dane nie są zbierane, przechowywane ani udostępniane</string>
+    <string name="not_now">Nie teraz</string>
+    <string name="access_required_toast">Najpierw włącz dostęp ułatwień dostępu</string>
+    <string name="access_title_on">Uprawnienie ułatwień dostępu (przyznane)</string>
+    <string name="block_required_toast">Najpierw wyłącz przycisk Netflix</string>
+    <string name="disclaimer">Stworzone przez Jorge Palanca. Bez afiliacji</string>
+</resources>

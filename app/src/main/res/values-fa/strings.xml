@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">دکمه Netflix روی کنترل‌های Shield را مسدود یا بازنگاشت می‌کند</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">محافظت روشن است — دکمه Netflix مسدود شده</string>
+    <string name="status_off">محافظت خاموش است — برای مسدود کردن دسترسی را فعال کنید</string>
+    <string name="access_title">مجوز دسترس‌پذیری لازم است. برای فعال‌سازی به تنظیمات بروید</string>
+    <string name="access_on">مجوز دسترس‌پذیری داده شد</string>
+    <string name="access_off">این برنامه هیچ داده‌ای را استفاده، ذخیره یا ارسال نمی‌کند و به‌صورت محلی روی دستگاه اجرا می‌شود</string>
+    <string name="access_open">باز کردن</string>
+    <string name="access_enable">فعال‌سازی</string>
+    <string name="access_hint">سپس: تنظیمات دستگاه → دسترس‌پذیری → Netflix Button Remapper → فعال‌سازی</string>
+    <string name="block_title">دکمه Netflix را غیرفعال کن</string>
+    <string name="block_sub">فشردن را لغو می‌کند تا Netflix هرگز باز نشود</string>
+    <string name="toast_title">اعلان هنگام فشردن</string>
+    <string name="toast_sub">هنگام فشردن دکمه، پیامی روی صفحه نمایش می‌دهد</string>
+    <string name="remap_title">بازنگاشت به برنامه دیگر</string>
+    <string name="remap_sub">هنگام فشردن دکمه، برنامه دیگری را باز می‌کند</string>
+    <string name="target_title">برنامه مقصد: %1s</string>
+    <string name="target_none">انتخاب نشده</string>
+    <string name="target_note">اگر برنامه مقصد از قبل باز باشد، فشردن دکمه نادیده گرفته می‌شود</string>
+    <string name="pick_app">انتخاب برنامه</string>
+    <string name="hide_apps">پنهان کردن برنامه‌ها</string>
+    <string name="clear">پاک کردن</string>
+    <string name="toast_blocked">دکمه Netflix مسدود شد</string>
+    <string name="toast_remapped">دکمه Netflix ← %1$s</string>
+    <string name="access_disclosure">این دسترسی به برنامه امکان می‌دهد فشردن دکمه Netflix را برای مسدود کردن یا بازنگاشت تشخیص دهد. هیچ داده‌ای جمع‌آوری، ذخیره یا هم‌رسانی نمی‌شود</string>
+    <string name="not_now">فعلاً نه</string>
+    <string name="access_required_toast">ابتدا دسترسی دسترس‌پذیری را فعال کنید</string>
+    <string name="access_title_on">مجوز دسترس‌پذیری (پذیرفته شد)</string>
+    <string name="block_required_toast">ابتدا دکمه Netflix را غیرفعال کنید</string>
+    <string name="disclaimer">ساخته‌شده توسط Jorge Palanca. بدون وابستگی</string>
+</resources>

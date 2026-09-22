@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Blochează sau remapează butonul Netflix de pe telecomenzile Shield</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">Protecția este activată — butonul Netflix este blocat</string>
+    <string name="status_off">Protecția este dezactivată — activează accesul pentru blocare</string>
+    <string name="access_title">Este necesară permisiunea de accesibilitate. Mergi la setări pentru activare</string>
+    <string name="access_on">Permisiunea de accesibilitate a fost acordată</string>
+    <string name="access_off">Această aplicație nu utilizează, stochează sau trimite date și rulează local pe dispozitiv</string>
+    <string name="access_open">Deschide</string>
+    <string name="access_enable">Activează</string>
+    <string name="access_hint">Apoi: Preferințe dispozitiv → Accesibilitate → Netflix Button Remapper → Activează</string>
+    <string name="block_title">Dezactivează butonul Netflix</string>
+    <string name="block_sub">Anulează apăsarea ca Netflix să nu se deschidă niciodată</string>
+    <string name="toast_title">Notificare la apăsare</string>
+    <string name="toast_sub">Afișează un mesaj pe ecran la apăsarea butonului</string>
+    <string name="remap_title">Remapează către altă aplicație</string>
+    <string name="remap_sub">Deschide altă aplicație la apăsarea butonului</string>
+    <string name="target_title">Aplicația țintă: %1s</string>
+    <string name="target_none">Neselectată</string>
+    <string name="target_note">Dacă aplicația țintă este deja deschisă, apăsarea butonului este ignorată</string>
+    <string name="pick_app">Alege aplicația</string>
+    <string name="hide_apps">Ascunde aplicațiile</string>
+    <string name="clear">Șterge</string>
+    <string name="toast_blocked">Butonul Netflix a fost blocat</string>
+    <string name="toast_remapped">Butonul Netflix → %1$s</string>
+    <string name="access_disclosure">Acest acces permite aplicației să detecteze apăsarea butonului Netflix pentru blocare sau remapare. Nu se colectează, stochează sau partajează date</string>
+    <string name="not_now">Nu acum</string>
+    <string name="access_required_toast">Activează mai întâi accesul de accesibilitate</string>
+    <string name="access_title_on">Permisiune de accesibilitate (acceptată)</string>
+    <string name="block_required_toast">Dezactivează mai întâi butonul Netflix</string>
+    <string name="disclaimer">Creat de Jorge Palanca. Fără afiliere</string>
+</resources>

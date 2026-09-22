@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Blocca o riassegna il tasto Netflix dei telecomandi Shield</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">La protezione è attiva — il tasto Netflix è bloccato</string>
+    <string name="status_off">La protezione è disattivata — attiva l’accesso per iniziare a bloccare</string>
+    <string name="access_title">Autorizzazione di accessibilità richiesta. Vai alle impostazioni per attivarla</string>
+    <string name="access_on">Autorizzazione di accessibilità concessa</string>
+    <string name="access_off">Questa app non utilizza, salva né invia alcun dato e funziona localmente sul dispositivo</string>
+    <string name="access_open">Apri</string>
+    <string name="access_enable">Attiva</string>
+    <string name="access_hint">Poi: Preferenze dispositivo → Accessibilità → Netflix Button Remapper → Attiva</string>
+    <string name="block_title">Disattiva il tasto Netflix</string>
+    <string name="block_sub">Annulla la pressione così Netflix non si apre mai</string>
+    <string name="toast_title">Notifica alla pressione</string>
+    <string name="toast_sub">Mostra un messaggio sullo schermo quando si preme il tasto</string>
+    <string name="remap_title">Riassegna a un’altra applicazione</string>
+    <string name="remap_sub">Apre un’altra applicazione quando si preme il tasto</string>
+    <string name="target_title">Applicazione di destinazione: %1s</string>
+    <string name="target_none">Nessuna selezionata</string>
+    <string name="target_note">Se l’applicazione di destinazione è già aperta, la pressione del tasto viene ignorata</string>
+    <string name="pick_app">Scegli app</string>
+    <string name="hide_apps">Nascondi app</string>
+    <string name="clear">Cancella</string>
+    <string name="toast_blocked">Tasto Netflix bloccato</string>
+    <string name="toast_remapped">Tasto Netflix → %1$s</string>
+    <string name="access_disclosure">Questo accesso consente all’app di rilevare la pressione del tasto Netflix per bloccarla o riassegnarla. Nessun dato viene raccolto, salvato o condiviso</string>
+    <string name="not_now">Non ora</string>
+    <string name="access_required_toast">Attiva prima l’accesso di accessibilità</string>
+    <string name="access_title_on">Autorizzazione di accessibilità (accettata)</string>
+    <string name="block_required_toast">Disattiva prima il tasto Netflix</string>
+    <string name="disclaimer">Realizzato da Jorge Palanca. Nessuna affiliazione</string>
+</resources>

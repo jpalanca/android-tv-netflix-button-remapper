@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Αποκλείει ή αλλάζει το κουμπί Netflix στα τηλεχειριστήρια Shield</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">Η προστασία είναι ενεργή — το κουμπί Netflix είναι αποκλεισμένο</string>
+    <string name="status_off">Η προστασία είναι ανενεργή — ενεργοποιήστε την πρόσβαση για αποκλεισμό</string>
+    <string name="access_title">Απαιτείται άδεια προσβασιμότητας. Μεταβείτε στις ρυθμίσεις για ενεργοποίηση</string>
+    <string name="access_on">Η άδεια προσβασιμότητας δόθηκε</string>
+    <string name="access_off">Αυτή η εφαρμογή δεν χρησιμοποιεί, αποθηκεύει ούτε αποστέλλει δεδομένα και λειτουργεί τοπικά στη συσκευή</string>
+    <string name="access_open">Άνοιγμα</string>
+    <string name="access_enable">Ενεργοποίηση</string>
+    <string name="access_hint">Μετά: Προτιμήσεις συσκευής → Προσβασιμότητα → Netflix Button Remapper → Ενεργοποίηση</string>
+    <string name="block_title">Απενεργοποίηση κουμπιού Netflix</string>
+    <string name="block_sub">Ακυρώνει το πάτημα ώστε το Netflix να μην ανοίγει ποτέ</string>
+    <string name="toast_title">Ειδοποίηση κατά το πάτημα</string>
+    <string name="toast_sub">Εμφανίζει μήνυμα στην οθόνη όταν πατιέται το κουμπί</string>
+    <string name="remap_title">Αλλαγή σε άλλη εφαρμογή</string>
+    <string name="remap_sub">Ανοίγει άλλη εφαρμογή όταν πατιέται το κουμπί</string>
+    <string name="target_title">Εφαρμογή προορισμού: %1s</string>
+    <string name="target_none">Δεν επιλέχθηκε</string>
+    <string name="target_note">Αν η εφαρμογή προορισμού είναι ήδη ανοιχτή, το πάτημα του κουμπιού αγνοείται</string>
+    <string name="pick_app">Επιλογή εφαρμογής</string>
+    <string name="hide_apps">Απόκρυψη εφαρμογών</string>
+    <string name="clear">Εκκαθάριση</string>
+    <string name="toast_blocked">Το κουμπί Netflix αποκλείστηκε</string>
+    <string name="toast_remapped">Κουμπί Netflix → %1$s</string>
+    <string name="access_disclosure">Αυτή η πρόσβαση επιτρέπει στην εφαρμογή να ανιχνεύει το πάτημα του κουμπιού Netflix για αποκλεισμό ή αλλαγή του. Δεν συλλέγονται, αποθηκεύονται ούτε κοινοποιούνται δεδομένα</string>
+    <string name="not_now">Όχι τώρα</string>
+    <string name="access_required_toast">Ενεργοποιήστε πρώτα την πρόσβαση προσβασιμότητας</string>
+    <string name="access_title_on">Άδεια προσβασιμότητας (εγκρίθηκε)</string>
+    <string name="block_required_toast">Απενεργοποιήστε πρώτα το κουμπί Netflix</string>
+    <string name="disclaimer">Δημιουργήθηκε από τον Jorge Palanca. Χωρίς σχέση</string>
+</resources>

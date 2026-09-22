@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Blokuje nebo přemapuje tlačítko Netflix na ovladačích Shield</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">Ochrana je zapnutá — tlačítko Netflix je blokováno</string>
+    <string name="status_off">Ochrana je vypnutá — zapněte přístup pro blokování</string>
+    <string name="access_title">Je vyžadováno oprávnění usnadnění. Přejděte do nastavení a zapněte</string>
+    <string name="access_on">Přístup usnadnění udělen</string>
+    <string name="access_off">Aplikace nepoužívá, neukládá ani neodesílá žádná data a běží lokálně v zařízení</string>
+    <string name="access_open">Otevřít</string>
+    <string name="access_enable">Zapnout</string>
+    <string name="access_hint">Pak: Předvolby zařízení → Usnadnění → Netflix Button Remapper → Zapnout</string>
+    <string name="block_title">Deaktivovat tlačítko Netflix</string>
+    <string name="block_sub">Zruší stisknutí, aby se Netflix nikdy neotevřel</string>
+    <string name="toast_title">Oznámení o stisknutí</string>
+    <string name="toast_sub">Při stisknutí tlačítka zobrazí zprávu na obrazovce</string>
+    <string name="remap_title">Přemapovat na jinou aplikaci</string>
+    <string name="remap_sub">Při stisknutí tlačítka otevře jinou aplikaci</string>
+    <string name="target_title">Cílová aplikace: %1s</string>
+    <string name="target_none">Nevybráno</string>
+    <string name="target_note">Je-li cílová aplikace již otevřená, stisknutí tlačítka se ignoruje</string>
+    <string name="pick_app">Vybrat aplikaci</string>
+    <string name="hide_apps">Skrýt aplikace</string>
+    <string name="clear">Vymazat</string>
+    <string name="toast_blocked">Tlačítko Netflix zablokováno</string>
+    <string name="toast_remapped">Tlačítko Netflix → %1$s</string>
+    <string name="access_disclosure">Tento přístup umožňuje aplikaci detekovat stisknutí tlačítka Netflix za účelem blokování či přemapování. Nejsou shromažďována, ukládána ani sdílena žádná data</string>
+    <string name="not_now">Teď ne</string>
+    <string name="access_required_toast">Nejprve zapněte přístup usnadnění</string>
+    <string name="access_title_on">Oprávnění usnadnění (uděleno)</string>
+    <string name="block_required_toast">Nejprve deaktivujte tlačítko Netflix</string>
+    <string name="disclaimer">Vytvořil Jorge Palanca. Bez příslušnosti</string>
+</resources>

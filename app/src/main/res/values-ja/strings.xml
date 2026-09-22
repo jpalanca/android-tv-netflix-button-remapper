@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">ShieldリモコンのNetflixボタンをブロックまたは変更します</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">保護はオン — Netflixボタンはブロックされています</string>
+    <string name="status_off">保護はオフ — ブロックするにはアクセスを有効にしてください</string>
+    <string name="access_title">ユーザー補助の許可が必要です。設定から有効にしてください</string>
+    <string name="access_on">ユーザー補助の許可が付与されました</string>
+    <string name="access_off">このアプリはデータを使用・保存・送信せず、デバイス上でローカルに動作します</string>
+    <string name="access_open">開く</string>
+    <string name="access_enable">有効にする</string>
+    <string name="access_hint">次に：デバイス設定 → ユーザー補助 → Netflix Button Remapper → 有効にする</string>
+    <string name="block_title">Netflixボタンを無効化</string>
+    <string name="block_sub">押下をキャンセルしてNetflixが開かないようにする</string>
+    <string name="toast_title">押したときに通知</string>
+    <string name="toast_sub">ボタン押下時に画面にメッセージを表示</string>
+    <string name="remap_title">他のアプリケーションに変更</string>
+    <string name="remap_sub">ボタン押下時に他のアプリケーションを開く</string>
+    <string name="target_title">対象アプリケーション：%1s</string>
+    <string name="target_none">未選択</string>
+    <string name="target_note">対象アプリケーションがすでに開いている場合、ボタンの押下は無視されます</string>
+    <string name="pick_app">アプリを選ぶ</string>
+    <string name="hide_apps">アプリを隠す</string>
+    <string name="clear">クリア</string>
+    <string name="toast_blocked">Netflixボタンをブロックしました</string>
+    <string name="toast_remapped">Netflixボタン → %1$s</string>
+    <string name="access_disclosure">このアクセスにより、アプリはNetflixボタンの押下を検出してブロックまたは変更できます。データの収集・保存・共有は行いません</string>
+    <string name="not_now">後で</string>
+    <string name="access_required_toast">先にユーザー補助アクセスを有効にしてください</string>
+    <string name="access_title_on">ユーザー補助の許可（承認済み）</string>
+    <string name="block_required_toast">先にNetflixボタンを無効化してください</string>
+    <string name="disclaimer">Jorge Palancaによる製作。無関係</string>
+</resources>

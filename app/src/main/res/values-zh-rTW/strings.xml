@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">攔截或重新映射 Shield 遙控器上的 Netflix 按鍵</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">保護已開啟 — Netflix 按鍵已被攔截</string>
+    <string name="status_off">保護已關閉 — 請開啟無障礙權限以開始攔截</string>
+    <string name="access_title">需要無障礙權限。前往設定開啟</string>
+    <string name="access_on">已授予無障礙權限</string>
+    <string name="access_off">本應用程式不使用、儲存或傳送任何資料，僅在本機裝置上執行</string>
+    <string name="access_open">開啟</string>
+    <string name="access_enable">啟用</string>
+    <string name="access_hint">接著：裝置偏好設定 → 無障礙 → Netflix Button Remapper → 啟用</string>
+    <string name="block_title">停用 Netflix 按鍵</string>
+    <string name="block_sub">取消此次按鍵，使 Netflix 永不開啟</string>
+    <string name="toast_title">按下時提示</string>
+    <string name="toast_sub">按下按鍵時在螢幕上顯示訊息</string>
+    <string name="remap_title">重新映射到其他應用程式</string>
+    <string name="remap_sub">按下按鍵時開啟其他應用程式</string>
+    <string name="target_title">目標應用程式：%1s</string>
+    <string name="target_none">未選取</string>
+    <string name="target_note">如果目標應用程式已開啟，將忽略此次按鍵</string>
+    <string name="pick_app">選擇應用程式</string>
+    <string name="hide_apps">隱藏應用程式</string>
+    <string name="clear">清除</string>
+    <string name="toast_blocked">已攔截 Netflix 按鍵</string>
+    <string name="toast_remapped">Netflix 按鍵 → %1$s</string>
+    <string name="access_disclosure">此權限使應用程式能夠偵測 Netflix 按鍵按下情況，以便攔截或重新映射。不會收集、儲存或共用任何資料</string>
+    <string name="not_now">暫不</string>
+    <string name="access_required_toast">請先開啟無障礙權限</string>
+    <string name="access_title_on">無障礙權限（已接受）</string>
+    <string name="block_required_toast">請先停用 Netflix 按鍵</string>
+    <string name="disclaimer">由 Jorge Palanca 製作。無關聯</string>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">บล็อกหรือเปลี่ยนปุ่ม Netflix บนรีโมท Shield</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">เปิดการป้องกันแล้ว — ปุ่ม Netflix ถูกบล็อก</string>
+    <string name="status_off">ปิดการป้องกันอยู่ — เปิดสิทธิ์การเข้าถึงเพื่อเริ่มบล็อก</string>
+    <string name="access_title">ต้องใช้สิทธิ์การเข้าถึง ไปที่การตั้งค่าเพื่อเปิดใช้งาน</string>
+    <string name="access_on">ได้รับสิทธิ์การเข้าถึงแล้ว</string>
+    <string name="access_off">แอปนี้ไม่ใช้ จัดเก็บ หรือส่งข้อมูลใดๆ และทำงานในอุปกรณ์เท่านั้น</string>
+    <string name="access_open">เปิด</string>
+    <string name="access_enable">เปิดใช้งาน</string>
+    <string name="access_hint">จากนั้น: ค่ากำหนดอุปกรณ์ → การเข้าถึง → Netflix Button Remapper → เปิดใช้งาน</string>
+    <string name="block_title">ปิดใช้งานปุ่ม Netflix</string>
+    <string name="block_sub">ยกเลิกการกดเพื่อไม่ให้ Netflix เปิดขึ้นมา</string>
+    <string name="toast_title">แจ้งเตือนเมื่อกด</string>
+    <string name="toast_sub">แสดงข้อความบนหน้าจอเมื่อกดปุ่ม</string>
+    <string name="remap_title">เปลี่ยนไปเปิดแอปพลิเคชันอื่น</string>
+    <string name="remap_sub">เปิดแอปพลิเคชันอื่นเมื่อกดปุ่ม</string>
+    <string name="target_title">แอปพลิเคชันเป้าหมาย: %1s</string>
+    <string name="target_none">ยังไม่ได้เลือก</string>
+    <string name="target_note">หากแอปพลิเคชันเป้าหมายเปิดอยู่แล้ว จะข้ามการกดปุ่ม</string>
+    <string name="pick_app">เลือกแอป</string>
+    <string name="hide_apps">ซ่อนแอป</string>
+    <string name="clear">ล้าง</string>
+    <string name="toast_blocked">บล็อกปุ่ม Netflix แล้ว</string>
+    <string name="toast_remapped">ปุ่ม Netflix → %1$s</string>
+    <string name="access_disclosure">สิทธิ์นี้ช่วยให้แอปตรวจจับการกดปุ่ม Netflix เพื่อบล็อกหรือเปลี่ยนปุ่ม ไม่มีการเก็บ รวบรวม หรือแชร์ข้อมูลใดๆ</string>
+    <string name="not_now">ไว้ก่อน</string>
+    <string name="access_required_toast">เปิดสิทธิ์การเข้าถึงก่อน</string>
+    <string name="access_title_on">สิทธิ์การเข้าถึง (ยอมรับแล้ว)</string>
+    <string name="block_required_toast">ปิดใช้งานปุ่ม Netflix ก่อน</string>
+    <string name="disclaimer">สร้างโดย Jorge Palanca ไม่มีความเกี่ยวข้อง</string>
+</resources>

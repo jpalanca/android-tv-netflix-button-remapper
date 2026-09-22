@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">يحظر زر Netflix في أجهزة تحكم Shield أو يعيد تعيينه</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">الحماية مفعّلة — زر Netflix محظور</string>
+    <string name="status_off">الحماية متوقفة — فعّل الوصول لبدء الحظر</string>
+    <string name="access_title">إذن إمكانية الوصول مطلوب. انتقل إلى الإعدادات لتفعيله</string>
+    <string name="access_on">تم منح إذن إمكانية الوصول</string>
+    <string name="access_off">لا يستخدم هذا التطبيق أي بيانات ولا يخزنها ولا يرسلها، ويعمل محليًا على الجهاز</string>
+    <string name="access_open">فتح</string>
+    <string name="access_enable">تفعيل</string>
+    <string name="access_hint">ثم: تفضيلات الجهاز → إمكانية الوصول → Netflix Button Remapper → تفعيل</string>
+    <string name="block_title">تعطيل زر Netflix</string>
+    <string name="block_sub">يلغي الضغطة حتى لا يفتح Netflix أبدًا</string>
+    <string name="toast_title">إشعار عند الضغط</string>
+    <string name="toast_sub">يعرض رسالة على الشاشة عند الضغط على الزر</string>
+    <string name="remap_title">إعادة التعيين لتطبيق آخر</string>
+    <string name="remap_sub">يفتح تطبيقًا آخر عند الضغط على الزر</string>
+    <string name="target_title">التطبيق الهدف: %1s</string>
+    <string name="target_none">لم يتم الاختيار</string>
+    <string name="target_note">إذا كان التطبيق الهدف مفتوحًا بالفعل، يتم تجاهل الضغط على الزر</string>
+    <string name="pick_app">اختيار تطبيق</string>
+    <string name="hide_apps">إخفاء التطبيقات</string>
+    <string name="clear">مسح</string>
+    <string name="toast_blocked">تم حظر زر Netflix</string>
+    <string name="toast_remapped">زر Netflix ← %1$s</string>
+    <string name="access_disclosure">يتيح هذا الوصول للتطبيق اكتشاف الضغط على زر Netflix لحظره أو إعادة تعيينه. لا يتم جمع أي بيانات أو تخزينها أو مشاركتها</string>
+    <string name="not_now">ليس الآن</string>
+    <string name="access_required_toast">فعّل وصول إمكانية الوصول أولاً</string>
+    <string name="access_title_on">إذن إمكانية الوصول (مقبول)</string>
+    <string name="block_required_toast">عطّل زر Netflix أولاً</string>
+    <string name="disclaimer">صُنع بواسطة Jorge Palanca. بدون انتماء</string>
+</resources>

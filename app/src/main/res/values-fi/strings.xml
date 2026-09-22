@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Estää tai uudelleenmäärittää Netflix-painikkeen Shield-kaukosäätimissä</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">Suojaus käytössä — Netflix-painike on estetty</string>
+    <string name="status_off">Suojaus pois käytöstä — ota käyttöoikeus käyttöön estääksesi</string>
+    <string name="access_title">Esteettömyyslupa vaaditaan. Ota käyttöön asetuksista</string>
+    <string name="access_on">Esteettömyyslupa myönnetty</string>
+    <string name="access_off">Sovellus ei käytä, tallenna eikä lähetä tietoja, ja se toimii paikallisesti laitteella</string>
+    <string name="access_open">Avaa</string>
+    <string name="access_enable">Ota käyttöön</string>
+    <string name="access_hint">Sitten: Laitteen asetukset → Esteettömyys → Netflix Button Remapper → Ota käyttöön</string>
+    <string name="block_title">Poista Netflix-painike käytöstä</string>
+    <string name="block_sub">Peruuttaa painalluksen, jotta Netflix ei avaudu</string>
+    <string name="toast_title">Ilmoitus painalluksesta</string>
+    <string name="toast_sub">Näyttää viestin näytöllä, kun painiketta painetaan</string>
+    <string name="remap_title">Määritä toiseen sovellukseen</string>
+    <string name="remap_sub">Avaa toisen sovelluksen painiketta painettaessa</string>
+    <string name="target_title">Kohdesovellus: %1s</string>
+    <string name="target_none">Ei valittu</string>
+    <string name="target_note">Jos kohdesovellus on jo auki, painikkeen painallus ohitetaan</string>
+    <string name="pick_app">Valitse sovellus</string>
+    <string name="hide_apps">Piilota sovellukset</string>
+    <string name="clear">Tyhjennä</string>
+    <string name="toast_blocked">Netflix-painike estetty</string>
+    <string name="toast_remapped">Netflix-painike → %1$s</string>
+    <string name="access_disclosure">Tämä käyttöoikeus antaa sovelluksen havaita Netflix-painikkeen painalluksen estämistä tai uudelleenmääritystä varten. Mitään tietoja ei kerätä, tallenneta eikä jaeta</string>
+    <string name="not_now">Ei nyt</string>
+    <string name="access_required_toast">Ota esteettömyyden käyttöoikeus ensin käyttöön</string>
+    <string name="access_title_on">Esteettömyyslupa (myönnetty)</string>
+    <string name="block_required_toast">Poista Netflix-painike ensin käytöstä</string>
+    <string name="disclaimer">Tekijä: Jorge Palanca. Ei sidoksia</string>
+</resources>

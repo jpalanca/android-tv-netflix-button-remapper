@@ -1,0 +1,53 @@
+name: Build APK
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: 9.7.1
+      - name: Install platform + build-tools
+        # setup-android@v3 is broken (removed 'tools' package), and
+        # sdkmanager is not on PATH, so resolve it explicitly with a
+        # cmdline-tools bootstrap fallback.
+        run: |
+          SDK="${ANDROID_SDK_ROOT:-$ANDROID_HOME}"
+          for d in "$SDK/cmdline-tools/latest/bin" "$SDK/cmdline-tools/bin"; do
+            [ -x "$d/sdkmanager" ] && export PATH="$d:$PATH" && break
+          done
+          if ! command -v sdkmanager >/dev/null; then
+            curl -o /tmp/cmdtools.zip https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip
+            mkdir -p "$SDK/cmdline-tools"
+            unzip -q /tmp/cmdtools.zip -d "$SDK/cmdline-tools/tmp"
+            mkdir -p "$SDK/cmdline-tools/latest"
+            cp -r "$SDK/cmdline-tools/tmp/cmdline-tools/." "$SDK/cmdline-tools/latest/"
+            rm -rf "$SDK/cmdline-tools/tmp" /tmp/cmdtools.zip
+            export PATH="$SDK/cmdline-tools/latest/bin:$PATH"
+          fi
+          yes | sdkmanager --licenses >/dev/null
+          # NOTE: the "android-37" alias does not resolve — pin exact platform.
+          sdkmanager "platforms;android-37.2" "build-tools;37.0.0"
+      - name: Unit tests
+        run: gradle :app:testDebugUnitTest --no-daemon
+      - name: Build debug APK
+        run: gradle :app:assembleDebug --no-daemon
+      - name: Build release bundle (Play upload)
+        run: gradle :app:bundleRelease --no-daemon
+      - uses: actions/upload-artifact@v4
+        with:
+          name: app-debug
+          path: app/build/outputs/apk/debug/app-debug.apk
+      - uses: actions/upload-artifact@v4
+        with:
+          name: app-release-aab
+          path: app/build/outputs/bundle/release/app-release.aab

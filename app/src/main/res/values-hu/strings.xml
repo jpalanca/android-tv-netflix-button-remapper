@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Blokkolja vagy átirányítja a Netflix gombot a Shield távirányítókon</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">A védelem be van kapcsolva — a Netflix gomb blokkolva van</string>
+    <string name="status_off">A védelem ki van kapcsolva — kapcsold be a hozzáférést a blokkoláshoz</string>
+    <string name="access_title">Akadálymentesítési engedély szükséges. Kapcsold be a beállításokban</string>
+    <string name="access_on">Akadálymentesítési engedély megadva</string>
+    <string name="access_off">Ez az app nem használ fel, tárol vagy küld adatokat, és helyileg fut az eszközön</string>
+    <string name="access_open">Megnyitás</string>
+    <string name="access_enable">Bekapcsolás</string>
+    <string name="access_hint">Majd: Eszközbeállítások → Akadálymentesítés → Netflix Button Remapper → Bekapcsolás</string>
+    <string name="block_title">Netflix gomb kikapcsolása</string>
+    <string name="block_sub">Megszakítja a lenyomást, így a Netflix sosem nyílik meg</string>
+    <string name="toast_title">Értesítés lenyomáskor</string>
+    <string name="toast_sub">Képernyőn megjelenő üzenetet mutat a gomb lenyomásakor</string>
+    <string name="remap_title">Átirányítás másik alkalmazásra</string>
+    <string name="remap_sub">Másik alkalmazást nyit meg a gomb lenyomásakor</string>
+    <string name="target_title">Célalkalmazás: %1s</string>
+    <string name="target_none">Nincs kiválasztva</string>
+    <string name="target_note">Ha a célalkalmazás már meg van nyitva, a gomb lenyomása figyelmen kívül marad</string>
+    <string name="pick_app">App választása</string>
+    <string name="hide_apps">Appok elrejtése</string>
+    <string name="clear">Törlés</string>
+    <string name="toast_blocked">Netflix gomb blokkolva</string>
+    <string name="toast_remapped">Netflix gomb → %1$s</string>
+    <string name="access_disclosure">Ez a hozzáférés lehetővé teszi az app számára a Netflix gomb lenyomásának észlelését blokkolás vagy átirányítás céljából. Semmilyen adatot nem gyűjt, tárol vagy oszt meg</string>
+    <string name="not_now">Most nem</string>
+    <string name="access_required_toast">Először kapcsold be az akadálymentesítési hozzáférést</string>
+    <string name="access_title_on">Akadálymentesítési engedély (elfogadva)</string>
+    <string name="block_required_toast">Először kapcsold ki a Netflix gombot</string>
+    <string name="disclaimer">Készítette: Jorge Palanca. Hovatartozás nélkül</string>
+</resources>

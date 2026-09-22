@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">חוסם או ממפה מחדש את כפתור Netflix בשלטי Shield</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">ההגנה פעילה — כפתור Netflix חסום</string>
+    <string name="status_off">ההגנה כבויה — הפעל גישה כדי להתחיל לחסום</string>
+    <string name="access_title">נדרשת הרשאת נגישות. עבור להגדרות כדי להפעיל</string>
+    <string name="access_on">הרשאת הנגישות ניתנה</string>
+    <string name="access_off">האפליקציה לא משתמשת, שומרת או שולחת נתונים, ופועלת מקומית במכשיר</string>
+    <string name="access_open">פתח</string>
+    <string name="access_enable">הפעל</string>
+    <string name="access_hint">אחר כך: העדפות מכשיר → נגישות → Netflix Button Remapper → הפעל</string>
+    <string name="block_title">השבת את כפתור Netflix</string>
+    <string name="block_sub">מבטל את הלחיצה כדי שנטפליקס לא ייפתח</string>
+    <string name="toast_title">התראה בלחיצה</string>
+    <string name="toast_sub">מציג הודעה על המסך בלחיצת הכפתור</string>
+    <string name="remap_title">מפה לאפליקציה אחרת</string>
+    <string name="remap_sub">פותח אפליקציה אחרת בלחיצת הכפתור</string>
+    <string name="target_title">אפליקציית יעד: %1s</string>
+    <string name="target_none">לא נבחר</string>
+    <string name="target_note">אם אפליקציית היעד כבר פתוחה, לחיצת הכפתור מתעלמת</string>
+    <string name="pick_app">בחר אפליקציה</string>
+    <string name="hide_apps">הסתר אפליקציות</string>
+    <string name="clear">נקה</string>
+    <string name="toast_blocked">כפתור Netflix נחסם</string>
+    <string name="toast_remapped">כפתור Netflix ← %1$s</string>
+    <string name="access_disclosure">גישה זו מאפשרת לאפליקציה לזהות לחיצה על כפתור Netflix כדי לחסום או למפות אותה מחדש. לא נאסף, נשמר או משותף מידע</string>
+    <string name="not_now">לא עכשיו</string>
+    <string name="access_required_toast">הפעל תחילה את גישת הנגישות</string>
+    <string name="access_title_on">הרשאת נגישות (התקבלה)</string>
+    <string name="block_required_toast">השבת תחילה את כפתור Netflix</string>
+    <string name="disclaimer">נוצר על ידי Jorge Palanca. ללא שיוך</string>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Shield रिमोट पर Netflix बटन को ब्लॉक या रीमैप करता है</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">सुरक्षा चालू है — Netflix बटन ब्लॉक है</string>
+    <string name="status_off">सुरक्षा बंद है — ब्लॉक करने के लिए एक्सेस चालू करें</string>
+    <string name="access_title">पहुँच-योग्यता अनुमति आवश्यक है। चालू करने के लिए सेटिंग में जाएं</string>
+    <string name="access_on">पहुँच-योग्यता अनुमति प्रदान की गई</string>
+    <string name="access_off">यह ऐप कोई डेटा उपयोग, संग्रहीत या भेजता नहीं है, और डिवाइस पर स्थानीय रूप से चलता है</string>
+    <string name="access_open">खोलें</string>
+    <string name="access_enable">चालू करें</string>
+    <string name="access_hint">फिर: डिवाइस प्राथमिकताएँ → पहुँच-योग्यता → Netflix Button Remapper → चालू करें</string>
+    <string name="block_title">Netflix बटन निष्क्रिय करें</string>
+    <string name="block_sub">दबाव रद्द करता है ताकि Netflix कभी न खुले</string>
+    <string name="toast_title">दबाने पर सूचना</string>
+    <string name="toast_sub">बटन दबाने पर स्क्रीन पर संदेश दिखाता है</string>
+    <string name="remap_title">दूसरे अनुप्रयोग पर रीमैप करें</string>
+    <string name="remap_sub">बटन दबाने पर दूसरा अनुप्रयोग खोलता है</string>
+    <string name="target_title">लक्ष्य अनुप्रयोग: %1s</string>
+    <string name="target_none">कुछ नहीं चुना</string>
+    <string name="target_note">यदि लक्ष्य अनुप्रयोग पहले से खुला है, तो बटन दबाने को अनदेखा किया जाता है</string>
+    <string name="pick_app">ऐप चुनें</string>
+    <string name="hide_apps">ऐप छिपाएँ</string>
+    <string name="clear">साफ़ करें</string>
+    <string name="toast_blocked">Netflix बटन ब्लॉक किया गया</string>
+    <string name="toast_remapped">Netflix बटन → %1$s</string>
+    <string name="access_disclosure">यह एक्सेस ऐप को Netflix बटन दबाने का पता लगाने देता है ताकि उसे ब्लॉक या रीमैप किया जा सके। कोई डेटा एकत्र, संग्रहीत या साझा नहीं किया जाता</string>
+    <string name="not_now">अभी नहीं</string>
+    <string name="access_required_toast">पहले पहुँच-योग्यता एक्सेस चालू करें</string>
+    <string name="access_title_on">पहुँच-योग्यता अनुमति (स्वीकृत)</string>
+    <string name="block_required_toast">पहले Netflix बटन निष्क्रिय करें</string>
+    <string name="disclaimer">Jorge Palanca द्वारा निर्मित। कोई संबद्धता नहीं</string>
+</resources>

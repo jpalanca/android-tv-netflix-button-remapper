@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Menyekat atau memetakan semula butang Netflix pada alat kawalan Shield</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">Perlindungan dihidupkan — butang Netflix disekat</string>
+    <string name="status_off">Perlindungan dimatikan — hidupkan akses untuk menyekat</string>
+    <string name="access_title">Kebenaran kebolehcapaian diperlukan. Pergi ke tetapan untuk menghidupkan</string>
+    <string name="access_on">Akses kebolehcapaian diberikan</string>
+    <string name="access_off">Aplikasi ini tidak menggunakan, menyimpan atau menghantar sebarang data, dan berjalan secara setempat pada peranti</string>
+    <string name="access_open">Buka</string>
+    <string name="access_enable">Hidupkan</string>
+    <string name="access_hint">Kemudian: Keutamaan peranti → Kebolehcapaian → Netflix Button Remapper → Hidupkan</string>
+    <string name="block_title">Nyahaktifkan butang Netflix</string>
+    <string name="block_sub">Membatalkan tekanan supaya Netflix tidak terbuka</string>
+    <string name="toast_title">Pemberitahuan semasa ditekan</string>
+    <string name="toast_sub">Memaparkan mesej pada skrin semasa butang ditekan</string>
+    <string name="remap_title">Petakan semula ke aplikasi lain</string>
+    <string name="remap_sub">Membuka aplikasi lain semasa butang ditekan</string>
+    <string name="target_title">Aplikasi sasaran: %1s</string>
+    <string name="target_none">Belum dipilih</string>
+    <string name="target_note">Jika aplikasi sasaran sudah terbuka, tekanan butang diabaikan</string>
+    <string name="pick_app">Pilih aplikasi</string>
+    <string name="hide_apps">Sembunyikan aplikasi</string>
+    <string name="clear">Padam</string>
+    <string name="toast_blocked">Butang Netflix disekat</string>
+    <string name="toast_remapped">Butang Netflix → %1$s</string>
+    <string name="access_disclosure">Akses ini membolehkan aplikasi mengesan tekanan butang Netflix untuk menyekat atau memetakannya semula. Tiada data dikumpul, disimpan atau dikongsi</string>
+    <string name="not_now">Bukan sekarang</string>
+    <string name="access_required_toast">Hidupkan akses kebolehcapaian dahulu</string>
+    <string name="access_title_on">Kebenaran kebolehcapaian (diterima)</string>
+    <string name="block_required_toast">Nyahaktifkan butang Netflix dahulu</string>
+    <string name="disclaimer">Dibuat oleh Jorge Palanca. Tiada gabungan</string>
+</resources>

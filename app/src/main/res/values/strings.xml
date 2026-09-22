@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Blocks or remaps the Netflix button on Shield remotes</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">Protection is on — the Netflix button is blocked</string>
+    <string name="status_off">Protection is off — enable access above to start blocking</string>
+    <string name="access_title">Accessibility permission required. Go to settings to enable</string>
+    <string name="access_on">Accessibility permission granted</string>
+    <string name="access_off">This app does not use, store or send any data, and runs locally on device</string>
+    <string name="access_open">Open</string>
+    <string name="access_enable">Enable</string>
+    <string name="access_hint">Then: Device Preferences → Accessibility → Netflix Button Remapper → Enable</string>
+    <string name="block_title">Disable the Netflix button</string>
+    <string name="block_sub">Cancels the press so Netflix never opens</string>
+    <string name="toast_title">Toast on press</string>
+    <string name="toast_sub">Shows an on-screen message when the button is pressed</string>
+    <string name="remap_title">Remap to another application</string>
+    <string name="remap_sub">Opens another application when the button is pressed</string>
+    <string name="target_title">Target application: %1s</string>
+    <string name="target_none">None selected</string>
+    <string name="target_note">If the target application is already open, the button press is ignored</string>
+    <string name="pick_app">Pick app</string>
+    <string name="hide_apps">Hide apps</string>
+    <string name="clear">Clear</string>
+    <string name="disclaimer">Made by Jorge Palanca. Not affiliated</string>
+    <string name="toast_blocked">Netflix button blocked</string>
+    <string name="toast_remapped">Netflix button → %1$s</string>
+    <string name="access_disclosure">This access lets the app detect the Netflix button press so it can block or remap it. No data is collected, stored, or shared</string>
+    <string name="not_now">Not now</string>
+    <string name="access_required_toast">Enable Accessibility access first</string>
+    <string name="access_title_on">Accessibility permission (accepted)</string>
+    <string name="block_required_toast">Disable the Netflix button first</string>
+</resources>

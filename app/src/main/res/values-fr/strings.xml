@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Bloque ou réassigne le bouton Netflix des télécommandes Shield</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">La protection est activée — le bouton Netflix est bloqué</string>
+    <string name="status_off">La protection est désactivée — activez l’accès pour commencer à bloquer</string>
+    <string name="access_title">Autorisation d’accessibilité requise. Allez dans les paramètres pour l’activer</string>
+    <string name="access_on">Autorisation d’accessibilité accordée</string>
+    <string name="access_off">Cette app n’utilise, ne stocke ni n’envoie aucune donnée, et fonctionne localement sur l’appareil</string>
+    <string name="access_open">Ouvrir</string>
+    <string name="access_enable">Activer</string>
+    <string name="access_hint">Ensuite : Préférences de l’appareil → Accessibilité → Netflix Button Remapper → Activer</string>
+    <string name="block_title">Désactiver le bouton Netflix</string>
+    <string name="block_sub">Annule l’appui pour que Netflix ne s’ouvre jamais</string>
+    <string name="toast_title">Notification à l’appui</string>
+    <string name="toast_sub">Affiche un message à l’écran quand le bouton est pressé</string>
+    <string name="remap_title">Réassigner vers une autre application</string>
+    <string name="remap_sub">Ouvre une autre application quand on appuie sur le bouton</string>
+    <string name="target_title">Application cible : %1s</string>
+    <string name="target_none">Aucune sélectionnée</string>
+    <string name="target_note">Si l’application cible est déjà ouverte, l’appui sur le bouton est ignoré</string>
+    <string name="pick_app">Choisir une app</string>
+    <string name="hide_apps">Masquer les apps</string>
+    <string name="clear">Effacer</string>
+    <string name="toast_blocked">Bouton Netflix bloqué</string>
+    <string name="toast_remapped">Bouton Netflix → %1$s</string>
+    <string name="access_disclosure">Cet accès permet à l’app de détecter l’appui sur le bouton Netflix pour le bloquer ou le réassigner. Aucune donnée n’est collectée, stockée ni partagée</string>
+    <string name="not_now">Pas maintenant</string>
+    <string name="access_required_toast">Activez d’abord l’accès d’accessibilité</string>
+    <string name="access_title_on">Autorisation d’accessibilité (acceptée)</string>
+    <string name="block_required_toast">Désactivez d’abord le bouton Netflix</string>
+    <string name="disclaimer">Réalisé par Jorge Palanca. Sans affiliation</string>
+</resources>

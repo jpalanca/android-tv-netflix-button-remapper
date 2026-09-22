@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Chặn hoặc gán lại nút Netflix trên điều khiển Shield</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">Đã bật bảo vệ — nút Netflix bị chặn</string>
+    <string name="status_off">Đã tắt bảo vệ — hãy bật quyền truy cập để chặn</string>
+    <string name="access_title">Cần quyền trợ năng. Vào cài đặt để bật</string>
+    <string name="access_on">Đã cấp quyền trợ năng</string>
+    <string name="access_off">Ứng dụng này không sử dụng, lưu trữ hay gửi bất kỳ dữ liệu nào và chạy cục bộ trên thiết bị</string>
+    <string name="access_open">Mở</string>
+    <string name="access_enable">Bật</string>
+    <string name="access_hint">Tiếp theo: Tùy chọn thiết bị → Trợ năng → Netflix Button Remapper → Bật</string>
+    <string name="block_title">Tắt nút Netflix</string>
+    <string name="block_sub">Hủy lần nhấn để Netflix không bao giờ mở</string>
+    <string name="toast_title">Thông báo khi nhấn</string>
+    <string name="toast_sub">Hiện thông báo trên màn hình khi nhấn nút</string>
+    <string name="remap_title">Gán sang ứng dụng khác</string>
+    <string name="remap_sub">Mở ứng dụng khác khi nhấn nút</string>
+    <string name="target_title">Ứng dụng đích: %1s</string>
+    <string name="target_none">Chưa chọn</string>
+    <string name="target_note">Nếu ứng dụng đích đang mở, lần nhấn nút sẽ bị bỏ qua</string>
+    <string name="pick_app">Chọn ứng dụng</string>
+    <string name="hide_apps">Ẩn ứng dụng</string>
+    <string name="clear">Xóa</string>
+    <string name="toast_blocked">Đã chặn nút Netflix</string>
+    <string name="toast_remapped">Nút Netflix → %1$s</string>
+    <string name="access_disclosure">Quyền này cho phép ứng dụng phát hiện lần nhấn nút Netflix để chặn hoặc gán lại. Không thu thập, lưu trữ hay chia sẻ dữ liệu nào</string>
+    <string name="not_now">Để sau</string>
+    <string name="access_required_toast">Hãy bật quyền trợ năng trước</string>
+    <string name="access_title_on">Quyền trợ năng (đã chấp nhận)</string>
+    <string name="block_required_toast">Hãy tắt nút Netflix trước</string>
+    <string name="disclaimer">Được tạo bởi Jorge Palanca. Không liên kết</string>
+</resources>

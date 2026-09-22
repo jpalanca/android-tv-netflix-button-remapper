@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Shield 리모컨의 Netflix 버튼을 차단하거나 변경합니다</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">보호가 켜져 있음 — Netflix 버튼이 차단됩니다</string>
+    <string name="status_off">보호가 꺼져 있음 — 차단하려면 접근을 허용하세요</string>
+    <string name="access_title">접근성 권한이 필요합니다. 설정에서 사용 설정하세요</string>
+    <string name="access_on">접근성 권한이 허용됨</string>
+    <string name="access_off">이 앱은 데이터를 사용·저장·전송하지 않으며 기기에서 로컬로 실행됩니다</string>
+    <string name="access_open">열기</string>
+    <string name="access_enable">사용</string>
+    <string name="access_hint">다음: 기기 환경설정 → 접근성 → Netflix Button Remapper → 사용</string>
+    <string name="block_title">Netflix 버튼 비활성화</string>
+    <string name="block_sub">누름을 취소하여 Netflix가 열리지 않게 함</string>
+    <string name="toast_title">누를 때 알림</string>
+    <string name="toast_sub">버튼을 누르면 화면에 메시지를 표시합니다</string>
+    <string name="remap_title">다른 애플리케이션으로 변경</string>
+    <string name="remap_sub">버튼을 누르면 다른 애플리케이션을 엽니다</string>
+    <string name="target_title">대상 애플리케이션: %1s</string>
+    <string name="target_none">선택 안 함</string>
+    <string name="target_note">대상 애플리케이션이 이미 열려 있으면 버튼 누름이 무시됩니다</string>
+    <string name="pick_app">앱 선택</string>
+    <string name="hide_apps">앱 숨기기</string>
+    <string name="clear">지우기</string>
+    <string name="toast_blocked">Netflix 버튼을 차단했습니다</string>
+    <string name="toast_remapped">Netflix 버튼 → %1$s</string>
+    <string name="access_disclosure">이 액세스를 통해 앱이 Netflix 버튼 누름을 감지하여 차단하거나 변경할 수 있습니다. 어떤 데이터도 수집·저장·공유하지 않습니다</string>
+    <string name="not_now">나중에</string>
+    <string name="access_required_toast">먼저 접근성 액세스를 사용 설정하세요</string>
+    <string name="access_title_on">접근성 권한 (허용됨)</string>
+    <string name="block_required_toast">먼저 Netflix 버튼을 비활성화하세요</string>
+    <string name="disclaimer">Jorge Palanca 제작. 무관</string>
+</resources>

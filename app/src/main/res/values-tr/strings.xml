@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Shield kumandalarındaki Netflix düğmesini engeller veya yeniden atar</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">Koruma açık — Netflix düğmesi engellendi</string>
+    <string name="status_off">Koruma kapalı — engellemek için erişimi açın</string>
+    <string name="access_title">Erişilebilirlik izni gerekli. Açmak için ayarlara gidin</string>
+    <string name="access_on">Erişilebilirlik izni verildi</string>
+    <string name="access_off">Bu uygulama hiçbir veriyi kullanmaz, saklamaz veya göndermez ve cihazda yerel olarak çalışır</string>
+    <string name="access_open">Aç</string>
+    <string name="access_enable">Etkinleştir</string>
+    <string name="access_hint">Sonra: Cihaz Tercihleri → Erişilebilirlik → Netflix Button Remapper → Etkinleştir</string>
+    <string name="block_title">Netflix düğmesini devre dışı bırak</string>
+    <string name="block_sub">Netflix asla açılmasın diye basmayı iptal eder</string>
+    <string name="toast_title">Basınca bildirim</string>
+    <string name="toast_sub">Düğmeye basıldığında ekranda ileti gösterir</string>
+    <string name="remap_title">Başka uygulamaya ata</string>
+    <string name="remap_sub">Düğmeye basıldığında başka uygulamayı açar</string>
+    <string name="target_title">Hedef uygulama: %1s</string>
+    <string name="target_none">Seçim yok</string>
+    <string name="target_note">Hedef uygulama zaten açıksa, düğmeye basma yok sayılır</string>
+    <string name="pick_app">Uygulama seç</string>
+    <string name="hide_apps">Uygulamaları gizle</string>
+    <string name="clear">Temizle</string>
+    <string name="toast_blocked">Netflix düğmesi engellendi</string>
+    <string name="toast_remapped">Netflix düğmesi → %1$s</string>
+    <string name="access_disclosure">Bu erişim, uygulamanın Netflix düğmesine basmayı algılayıp engellemesine veya yeniden atamasına olanak tanır. Hiçbir veri toplanmaz, saklanmaz veya paylaşılmaz</string>
+    <string name="not_now">Şimdi değil</string>
+    <string name="access_required_toast">Önce erişilebilirlik erişimini açın</string>
+    <string name="access_title_on">Erişilebilirlik izni (kabul edildi)</string>
+    <string name="block_required_toast">Önce Netflix düğmesini devre dışı bırakın</string>
+    <string name="disclaimer">Jorge Palanca tarafından yapıldı. Bağlantısı yoktur</string>
+</resources>

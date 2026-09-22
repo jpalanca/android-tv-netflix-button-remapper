@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Блокує або перепризначає кнопку Netflix на пультах Shield</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">Захист увімкнено — кнопку Netflix заблоковано</string>
+    <string name="status_off">Захист вимкнено — увімкніть доступ, щоб блокувати</string>
+    <string name="access_title">Потрібен дозвіл спеціальних можливостей. Перейдіть до налаштувань, щоб увімкнути</string>
+    <string name="access_on">Доступ спеціальних можливостей надано</string>
+    <string name="access_off">Застосунок не використовує, не зберігає й не надсилає дані та працює локально на пристрої</string>
+    <string name="access_open">Відкрити</string>
+    <string name="access_enable">Увімкнути</string>
+    <string name="access_hint">Далі: Налаштування пристрою → Спеціальні можливості → Netflix Button Remapper → Увімкнути</string>
+    <string name="block_title">Вимкнути кнопку Netflix</string>
+    <string name="block_sub">Скасовує натискання, щоб Netflix не відкривався</string>
+    <string name="toast_title">Сповіщення про натискання</string>
+    <string name="toast_sub">Показує повідомлення на екрані після натискання кнопки</string>
+    <string name="remap_title">Перепризначити на інший застосунок</string>
+    <string name="remap_sub">Відкриває інший застосунок після натискання кнопки</string>
+    <string name="target_title">Цільовий застосунок: %1s</string>
+    <string name="target_none">Не вибрано</string>
+    <string name="target_note">Якщо цільовий застосунок уже відкрито, натискання кнопки ігнорується</string>
+    <string name="pick_app">Вибрати застосунок</string>
+    <string name="hide_apps">Сховати застосунки</string>
+    <string name="clear">Очистити</string>
+    <string name="toast_blocked">Кнопку Netflix заблоковано</string>
+    <string name="toast_remapped">Кнопка Netflix → %1$s</string>
+    <string name="access_disclosure">Цей доступ дає застосунку змогу виявляти натискання кнопки Netflix, щоб блокувати чи перепризначати її. Дані не збираються, не зберігаються й не передаються</string>
+    <string name="not_now">Не зараз</string>
+    <string name="access_required_toast">Спершу увімкніть доступ спеціальних можливостей</string>
+    <string name="access_title_on">Дозвіл спеціальних можливостей (надано)</string>
+    <string name="block_required_toast">Спершу вимкніть кнопку Netflix</string>
+    <string name="disclaimer">Зроблено Jorge Palanca. Без афілійованості</string>
+</resources>

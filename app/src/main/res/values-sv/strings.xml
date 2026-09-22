@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Blockerar eller mappar om Netflix-knappen på Shield-fjärrkontroller</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">Skyddet är på — Netflix-knappen är blockerad</string>
+    <string name="status_off">Skyddet är av — aktivera åtkomst för att blockera</string>
+    <string name="access_title">Behörighet för tillgänglighet krävs. Gå till inställningar för att aktivera</string>
+    <string name="access_on">Tillgänglighetsbehörighet beviljad</string>
+    <string name="access_off">Appen använder, lagrar eller skickar inga data och körs lokalt på enheten</string>
+    <string name="access_open">Öppna</string>
+    <string name="access_enable">Aktivera</string>
+    <string name="access_hint">Sedan: Enhetspreferenser → Tillgänglighet → Netflix Button Remapper → Aktivera</string>
+    <string name="block_title">Inaktivera Netflix-knappen</string>
+    <string name="block_sub">Avbryter trycket så att Netflix aldrig öppnas</string>
+    <string name="toast_title">Meddelande vid tryck</string>
+    <string name="toast_sub">Visar ett meddelande på skärmen när knappen trycks in</string>
+    <string name="remap_title">Mappa om till en annan applikation</string>
+    <string name="remap_sub">Öppnar en annan applikation när knappen trycks in</string>
+    <string name="target_title">Målapplikation: %1s</string>
+    <string name="target_none">Ingen vald</string>
+    <string name="target_note">Om målapplikationen redan är öppen ignoreras knapptrycket</string>
+    <string name="pick_app">Välj app</string>
+    <string name="hide_apps">Dölj appar</string>
+    <string name="clear">Rensa</string>
+    <string name="toast_blocked">Netflix-knappen blockerad</string>
+    <string name="toast_remapped">Netflix-knappen → %1$s</string>
+    <string name="access_disclosure">Denna åtkomst låter appen upptäcka tryck på Netflix-knappen för att blockera eller mappa om den. Inga data samlas in, lagras eller delas</string>
+    <string name="not_now">Inte nu</string>
+    <string name="access_required_toast">Aktivera tillgänglighetsåtkomst först</string>
+    <string name="access_title_on">Behörighet för tillgänglighet (accepterad)</string>
+    <string name="block_required_toast">Inaktivera Netflix-knappen först</string>
+    <string name="disclaimer">Skapad av Jorge Palanca. Ingen anknytning</string>
+</resources>

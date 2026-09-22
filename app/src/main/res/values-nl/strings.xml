@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Blokkeert de Netflix-knop op Shield-afstandsbedieningen of wijst deze opnieuw toe</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">Beveiliging staat aan — de Netflix-knop is geblokkeerd</string>
+    <string name="status_off">Beveiliging staat uit — schakel toegang in om te blokkeren</string>
+    <string name="access_title">Toegankelijkheidsmachtiging vereist. Ga naar instellingen om in te schakelen</string>
+    <string name="access_on">Toegankelijkheidstoegang verleend</string>
+    <string name="access_off">Deze app gebruikt, slaat geen gegevens op of verstuurt ze niet, en draait lokaal op het apparaat</string>
+    <string name="access_open">Openen</string>
+    <string name="access_enable">Inschakelen</string>
+    <string name="access_hint">Daarna: Apparaatvoorkeuren → Toegankelijkheid → Netflix Button Remapper → Inschakelen</string>
+    <string name="block_title">Netflix-knop uitschakelen</string>
+    <string name="block_sub">Annuleert de druk zodat Netflix nooit opent</string>
+    <string name="toast_title">Melding bij indrukken</string>
+    <string name="toast_sub">Toont een melding op het scherm wanneer de knop wordt ingedrukt</string>
+    <string name="remap_title">Opnieuw toewijzen aan een andere applicatie</string>
+    <string name="remap_sub">Opent een andere applicatie wanneer de knop wordt ingedrukt</string>
+    <string name="target_title">Doelapplicatie: %1s</string>
+    <string name="target_none">Niets geselecteerd</string>
+    <string name="target_note">Als de doelapplicatie al open is, wordt de druk op de knop genegeerd</string>
+    <string name="pick_app">App kiezen</string>
+    <string name="hide_apps">Apps verbergen</string>
+    <string name="clear">Wissen</string>
+    <string name="toast_blocked">Netflix-knop geblokkeerd</string>
+    <string name="toast_remapped">Netflix-knop → %1$s</string>
+    <string name="access_disclosure">Deze toegang laat de app de Netflix-knop detecteren om deze te blokkeren of opnieuw toe te wijzen. Er worden geen gegevens verzameld, opgeslagen of gedeeld</string>
+    <string name="not_now">Niet nu</string>
+    <string name="access_required_toast">Schakel eerst toegankelijkheidstoegang in</string>
+    <string name="access_title_on">Toegankelijkheidsmachtiging (geaccepteerd)</string>
+    <string name="block_required_toast">Schakel eerst de Netflix-knop uit</string>
+    <string name="disclaimer">Gemaakt door Jorge Palanca. Geen affiliatie</string>
+</resources>

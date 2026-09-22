@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Bloqueja o reassigna el botó de Netflix dels comandaments Shield</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">La protecció està activada — el botó de Netflix està bloquejat</string>
+    <string name="status_off">La protecció està desactivada — activa l’accés per començar a bloquejar</string>
+    <string name="access_title">Permís d’accessibilitat necessari. Ves als paràmetres per activar-lo</string>
+    <string name="access_on">Permís d’accessibilitat concedit</string>
+    <string name="access_off">Aquesta app no utilitza, desa ni envia cap dada i funciona localment al dispositiu</string>
+    <string name="access_open">Obre</string>
+    <string name="access_enable">Activa</string>
+    <string name="access_hint">Després: Preferències del dispositiu → Accessibilitat → Netflix Button Remapper → Activa</string>
+    <string name="block_title">Desactiva el botó de Netflix</string>
+    <string name="block_sub">Cancel·la la pulsació perquè Netflix no s’obri mai</string>
+    <string name="toast_title">Avís en prémer</string>
+    <string name="toast_sub">Mostra un missatge en pantalla quan es premi el botó</string>
+    <string name="remap_title">Reassigna a una altra aplicació</string>
+    <string name="remap_sub">Obre una altra aplicació en prémer el botó</string>
+    <string name="target_title">Aplicació de destinació: %1s</string>
+    <string name="target_none">Cap seleccionada</string>
+    <string name="target_note">Si l’aplicació de destinació ja és oberta, la pulsació del botó s’ignora</string>
+    <string name="pick_app">Tria una app</string>
+    <string name="hide_apps">Amaga les apps</string>
+    <string name="clear">Neteja</string>
+    <string name="toast_blocked">Botó de Netflix bloquejat</string>
+    <string name="toast_remapped">Botó de Netflix → %1$s</string>
+    <string name="access_disclosure">Aquest accés permet a l’app detectar la pulsació del botó de Netflix per bloquejar-la o reassignar-la. No es recullen, desen ni comparteixen dades</string>
+    <string name="not_now">Ara no</string>
+    <string name="access_required_toast">Activa primer l’accés d’accessibilitat</string>
+    <string name="access_title_on">Permís d’accessibilitat (acceptat)</string>
+    <string name="block_required_toast">Desactiva primer el botó de Netflix</string>
+    <string name="disclaimer">Fet per Jorge Palanca. Sense afiliació</string>
+</resources>

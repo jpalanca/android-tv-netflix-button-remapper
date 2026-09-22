@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TV Button Remapper</string>
+    <string name="accessibility_description">Memblokir atau memetakan ulang tombol Netflix di remote Shield</string>
+    <string name="home_title">Netflix Button Remapper</string>
+    <string name="status_on">Perlindungan aktif — tombol Netflix diblokir</string>
+    <string name="status_off">Perlindungan nonaktif — aktifkan akses untuk memblokir</string>
+    <string name="access_title">Izin aksesibilitas diperlukan. Buka pengaturan untuk mengaktifkan</string>
+    <string name="access_on">Izin aksesibilitas diberikan</string>
+    <string name="access_off">Aplikasi ini tidak menggunakan, menyimpan, atau mengirim data apa pun, dan berjalan secara lokal di perangkat</string>
+    <string name="access_open">Buka</string>
+    <string name="access_enable">Aktifkan</string>
+    <string name="access_hint">Lalu: Preferensi perangkat → Aksesibilitas → Netflix Button Remapper → Aktifkan</string>
+    <string name="block_title">Nonaktifkan tombol Netflix</string>
+    <string name="block_sub">Membatalkan tekanan agar Netflix tidak terbuka</string>
+    <string name="toast_title">Notifikasi saat ditekan</string>
+    <string name="toast_sub">Menampilkan pesan di layar saat tombol ditekan</string>
+    <string name="remap_title">Petakan ulang ke aplikasi lain</string>
+    <string name="remap_sub">Membuka aplikasi lain saat tombol ditekan</string>
+    <string name="target_title">Aplikasi target: %1s</string>
+    <string name="target_none">Belum dipilih</string>
+    <string name="target_note">Jika aplikasi target sudah terbuka, penekanan tombol diabaikan</string>
+    <string name="pick_app">Pilih app</string>
+    <string name="hide_apps">Sembunyikan app</string>
+    <string name="clear">Hapus</string>
+    <string name="toast_blocked">Tombol Netflix diblokir</string>
+    <string name="toast_remapped">Tombol Netflix → %1$s</string>
+    <string name="access_disclosure">Akses ini memungkinkan aplikasi mendeteksi penekanan tombol Netflix untuk memblokir atau memetakannya ulang. Tidak ada data yang dikumpulkan, disimpan, atau dibagikan</string>
+    <string name="not_now">Nanti saja</string>
+    <string name="access_required_toast">Aktifkan akses aksesibilitas terlebih dahulu</string>
+    <string name="access_title_on">Izin aksesibilitas (diterima)</string>
+    <string name="block_required_toast">Nonaktifkan tombol Netflix terlebih dahulu</string>
+    <string name="disclaimer">Dibuat oleh Jorge Palanca. Tanpa afiliasi</string>
+</resources>
